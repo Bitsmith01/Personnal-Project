@@ -35,7 +35,7 @@ function Hero({ }: Props) {
                     <a href='#about'>
                         <button className='heroButton'>About</button>
                     </a>
-                    <a href='#hero'>
+                    <a href='#workexperience'>
                         <button className='heroButton'>Experience</button>
                     </a>
                     <a href='#skills'>
