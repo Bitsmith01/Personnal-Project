@@ -22,7 +22,6 @@ function Hero({ }: Props) {
     return (
         <div className='h-screen flex flex-col space-y-8 items-center justify-center text-center overflow-hidden'>
             <BackgroundcCrcles />
-            {/* img */}
             <div className='z-20'>
                 <h2 className='uppercase text-sm text-gray-500 pb-2 tracking-[15px]'>
                     Software Engeineer
@@ -41,10 +40,9 @@ function Hero({ }: Props) {
                     <a href='#skills'>
                         <button className='heroButton'>Skills</button>
                     </a>
-                    <a href='#project'>
+                    <a href='#projects'>
                         <button className='heroButton'>Project</button>
                     </a>
-
                 </div>
             </div>
         </div>
