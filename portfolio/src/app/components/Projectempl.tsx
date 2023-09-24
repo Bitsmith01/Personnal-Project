@@ -10,7 +10,7 @@ function Projectempl({}: Props) {
       <Image src={showtime} width={600} height={700} alt="showtime project" />
       <div>
         <h1 className="text-2xl md:text-4xl font-semibold text-center">
-          Case study : <a href="">Showtime plateforme</a>
+          <a href="">Showtime plateforme</a>
         </h1>
       </div>
     </div>
